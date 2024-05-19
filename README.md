@@ -1,6 +1,6 @@
 ![cabecalhopoo](https://github.com/HenriqueNeuhaus/POO/assets/126741336/518419f9-4cab-4012-b74c-db4f79172a4b)
 
-### Ciência da Computação - ICET/UFJ
+### Ciência da Computação - UFJ
 ### Aluno: Henrique da Costa Neuhaus
 
 ## Horário das Aulas
