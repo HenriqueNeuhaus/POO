@@ -1,11 +1,11 @@
-![cabecalhopoo](https://github.com/HenriqueNeuhaus/imagens/blob/main/Sem%20t%C3%ADtulo.png)
+![cabecalhopoo](https://github.com/HenriqueNeuhaus/POO/blob/imagenspoo/imagenspoo/cabecalhopoo.png)
 
 ### Ciência da Computação - ICET/UFJ
 ### Aluno: Henrique da Costa Neuhaus
 
 ## Horário das Aulas
 
-Segunda - 13h30 às 15h10 - LEC 03
+![indicativo](https://github.com/HenriqueNeuhaus/POO/blob/imagenspoo/imagenspoo/gammadopplerXD.png) Segunda - 13h30 às 15h10 - LEC 03
 
 Quinta - 7h30 às 9h10 - LEC 03
 
