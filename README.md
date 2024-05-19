@@ -28,5 +28,5 @@
 
 ## Perfil do Sololearn
 
-![gammadopplerXD](https://github.com/HenriqueNeuhaus/POO/assets/126741336/5951395b-9266-4266-b26b-353712a69a0a)
+![gammadopplerXD](https://github.com/HenriqueNeuhaus/POO/assets/126741336/5951395b-9266-4266-b26b-353712a69a0a) https://www.sololearn.com/pt/profile/32016320/
 
