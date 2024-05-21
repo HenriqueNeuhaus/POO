@@ -17,15 +17,13 @@
 
 ![buttlerfly](https://github.com/HenriqueNeuhaus/POO/assets/126741336/84a51866-6ea1-4bab-94b0-9be8f40c3454)Projeto de Prática
 
-Trabalho 3
+![gut](https://github.com/HenriqueNeuhaus/POO/assets/126741336/a361d269-c10d-48c3-909a-bd321fb04d8e)Trabalho 3
 
-Trabalho 4
+![kruki](https://github.com/HenriqueNeuhaus/POO/assets/126741336/d5532658-edda-4a85-8c02-dea60004bfbf)Trabalho 4
 
-Projeto de Prática
-
-
+![ursus](https://github.com/HenriqueNeuhaus/POO/assets/126741336/92613f34-1793-4203-9c4e-a73aa4d05685)Projeto de Prática
 
 ## Perfil do Sololearn
 
-https://www.sololearn.com/pt/profile/32016320/
+![karambit](https://github.com/HenriqueNeuhaus/POO/assets/126741336/305590ac-d19d-43ec-a564-85be531f791b)https://www.sololearn.com/pt/profile/32016320/
 
